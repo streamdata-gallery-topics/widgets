@@ -1,0 +1,185 @@
+{
+	"name": "Streadata.io API Gallery - Widgets",
+	"description": "This is a repository of widgets APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/widgets.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://widgets.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "netvibes",
+			"x-api-slug": "netvibes",
+			"description": "Your Personal Dashboard: See everything thats happening: News, social media, favorite websites all in one Dashboard",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/443-netvibes.jpg",
+			"humanURL": "http://dev.netvibes.com/",
+			"baseURL": "https:///",
+			"tags": "Widgets",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/netvibes/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Server Density",
+			"x-api-slug": "server-density",
+			"description": "SaaS infrastructure monitoring. Dashboards, graphs and alerts to help you improve performance and maintain uptime. Organizer of @humanops",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/475-server-density.jpg",
+			"humanURL": "https://www.serverdensity.com",
+			"baseURL": "://api.serverdensity.io./",
+			"tags": "Widgets",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/server-density/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Conduit ",
+			"x-api-slug": "conduit-",
+			"description": "Conduit. EMPOWERING BUSINESSES WITH CLOUD-BASED SOLUTIONS SINCE 2005",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/560-conduit-.jpg",
+			"humanURL": "http://www.conduit.com/Developers/overview.aspx",
+			"baseURL": "https:///",
+			"tags": "Widgets",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/conduit-/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Frogtrade FDP",
+			"x-api-slug": "frogtrade-fdp",
+			"description": "The Frog Developer Platform (FDP) is a set of resources to enable third party developers to extend or add new functionality to Frog. Frog have released a number of APIs to enable third parties to securely access &amp; manipulate certain data within the Frog environment. For a full list of available methods, check out the API Reference",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/frong-developer-platform.png",
+			"humanURL": "http://fdp.frogcommunity.com",
+			"baseURL": "https:///",
+			"tags": "Widgets",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/frogtrade-fdp/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Mibbit",
+			"x-api-slug": "mibbit",
+			"description": "Mibbit is a fully featured IRC Client. Allowing you to interact realtime with your friends. Chat, play games, colaborate on projects together and more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/846-mibbit.jpg",
+			"humanURL": "http://mibbit.com",
+			"baseURL": "https:///",
+			"tags": "Widgets",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/mibbit/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Plentymarkets",
+			"x-api-slug": "plentymarkets",
+			"description": "plentymarkets is an all-in-one e-commerce ERP solution, which combines a comprehensive stock management system with a versatile shop system and effortless multichannel sales. Thanks to comprehensive functions and interfaces that include all steps of the e-commerce value chain, you can use the cloud based software to completely automate all of your e-business processes as well as your companys own individual processes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png",
+			"humanURL": "http://www.plentymarkets.co.uk",
+			"baseURL": "https://example.com//",
+			"tags": "Widgets",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/plentymarkets/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dezrez",
+			"x-api-slug": "dezrez",
+			"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg",
+			"humanURL": "https://www.dezrez.com",
+			"baseURL": "https://api.dezrez.com//",
+			"tags": "Widgets",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/dezrez/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Xibo",
+			"x-api-slug": "xibo",
+			"description": "Xibo Digital Signage is a low-cost, high performance solution to launch your business, workplace or organisation into the future. Xibo doesn&rsquo;t just replicate print media, but actively increases engagement allowing you to deliver your message more effectively than ever before.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xibo-digital-signage-logo.jpeg",
+			"humanURL": "http://www.xibo.org.uk",
+			"baseURL": "https:////api",
+			"tags": "Widgets",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/xibo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Reviewshake",
+			"x-api-slug": "reviewshake",
+			"description": "Reviewshake helps you manage all your review sites from one place, automate new reviews from your customers and track review performance",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28931-subdomain-reviewshake-com.jpg",
+			"humanURL": "https://www.reviewshake.com/",
+			"baseURL": "https://subdomain.reviewshake.com//api/v1",
+			"tags": "Widgets",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/reviewshake/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Widgets",
+	"include": [
+		{
+			"name": "netvibes",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/netvibes/apis.yaml"
+		},
+		{
+			"name": "Server Density",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/server-density/apis.yaml"
+		},
+		{
+			"name": "Conduit ",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/conduit-/apis.yaml"
+		},
+		{
+			"name": "Frogtrade FDP",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/frogtrade-fdp/apis.yaml"
+		},
+		{
+			"name": "Mibbit",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/mibbit/apis.yaml"
+		},
+		{
+			"name": "Plentymarkets",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/plentymarkets/apis.yaml"
+		},
+		{
+			"name": "Dezrez",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/dezrez/apis.yaml"
+		},
+		{
+			"name": "Xibo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/xibo/apis.yaml"
+		},
+		{
+			"name": "Reviewshake",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/reviewshake/apis.yaml"
+		}
+	]
+}

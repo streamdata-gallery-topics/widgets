@@ -7,11 +7,141 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-
 x-kinRank: "7"
 x-alexaRank: "385559"
 tags: Widgets
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/dezrez/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Dezrez.Rezi.Client.Api - Remove widgets from a dashboard
+  x-api-slug: apidashboardidremovewidgets-put
+  description: Remove widgets from a dashboard.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/dezrez/apidashboardidremovewidgets-put-openapi.md
+- name: Dezrez.Rezi.Client.Api - Add widget to dashboard
+  x-api-slug: apidashboardidsetwidget-put
+  description: Add widget to dashboard.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/dezrez/apidashboardidsetwidget-put-openapi.md
+- name: Dezrez.Rezi.Client.Api - Delete widget on dashboard
+  x-api-slug: apidashboardiddeletewidgetwidgetid-delete
+  description: Delete widget on dashboard.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/dezrez/apidashboardiddeletewidgetwidgetid-delete-openapi.md
+- name: Dezrez.Rezi.Client.Api - Move widget onto another dashboard
+  x-api-slug: apidashboardmovewidget-put
+  description: Move widget onto another dashboard.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/dezrez/apidashboardmovewidget-put-openapi.md
+- name: Dezrez.Rezi.Client.Api - Set widget layout on dashboards
+  x-api-slug: apidashboardidsetlayout-put
+  description: Set widget layout on dashboards.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/dezrez/apidashboardidsetlayout-put-openapi.md
+- name: Dezrez.Rezi.Client.Api - Add widget to dashboard
+  x-api-slug: apidashboardidsetwidget-put
+  description: Add widget to dashboard.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/dezrez/apidashboardidsetwidget-put-openapi.md
+- name: Dezrez.Rezi.Client.Api - Delete widget on dashboard
+  x-api-slug: apidashboardiddeletewidgetwidgetid-delete
+  description: Delete widget on dashboard.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/dezrez/apidashboardiddeletewidgetwidgetid-delete-openapi.md
+- name: Dezrez.Rezi.Client.Api - Move widget onto another dashboard
+  x-api-slug: apidashboardmovewidget-put
+  description: Move widget onto another dashboard.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/dezrez/apidashboardmovewidget-put-openapi.md
+- name: Dezrez.Rezi.Client.Api - Set widget layout on dashboards
+  x-api-slug: apidashboardidsetlayout-put
+  description: Set widget layout on dashboards.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/dezrez/apidashboardidsetlayout-put-openapi.md
+- name: Dezrez.Rezi.Client.Api - Set widget layout on dashboards
+  x-api-slug: apidashboardidsetlayout-put
+  description: Set widget layout on dashboards.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/dezrez/apidashboardidsetlayout-put-openapi.md
+- name: Dezrez.Rezi.Client.Api - Move widget onto another dashboard
+  x-api-slug: apidashboardmovewidget-put
+  description: Move widget onto another dashboard.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/dezrez/apidashboardmovewidget-put-openapi.md
+- name: Dezrez.Rezi.Client.Api - Delete widget on dashboard
+  x-api-slug: apidashboardiddeletewidgetwidgetid-delete
+  description: Delete widget on dashboard.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/dezrez/apidashboardiddeletewidgetwidgetid-delete-openapi.md
+- name: Dezrez.Rezi.Client.Api - Add widget to dashboard
+  x-api-slug: apidashboardidsetwidget-put
+  description: Add widget to dashboard.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/widgets/master/_listings/dezrez/apidashboardidsetwidget-put-openapi.md
 x-common:
 - type: x-github
   url: https://github.com/dezrez

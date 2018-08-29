@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Server Density
 x-complete: 1
@@ -84,4 +83,3 @@ paths:
           description: sf_external_accept_allow
       tags:
       - Widgets
----
